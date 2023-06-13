@@ -23,7 +23,7 @@ body, html {
 .puppy-name {
   cursor: pointer;
   font-size: 18px;
-  color: #1b87c2;
+  color: #2ac9ed;
   margin: 5px;
   padding: 10px;
   border-radius: 5px;
@@ -31,7 +31,7 @@ body, html {
 }
 
 .puppy-name:hover {
-  background-color: #a5d3a7;
+  background-color: #201e2f;
 }
 
 h2 {
@@ -48,13 +48,13 @@ ul {
 
 ul li {
   font-size: 18px;
-  color: #a5d3a7;
+  color: #0fcca6;
   margin: 5px;
 }
 
 .featured-puppy {
   text-align: left;
-  border-top: 1px solid #a5d3a7;
+  border-top: 1px solid #0fcca6;
   padding-top: 20px;
   margin-top: 20px;
 }
